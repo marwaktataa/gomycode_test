@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gomycode_task/static/css/main.5c0d9cce.chunk.css",
+    "main.js": "/gomycode_task/static/js/main.6234160d.chunk.js",
+    "main.js.map": "/gomycode_task/static/js/main.6234160d.chunk.js.map",
+    "runtime-main.js": "/gomycode_task/static/js/runtime-main.d9e7b290.js",
+    "runtime-main.js.map": "/gomycode_task/static/js/runtime-main.d9e7b290.js.map",
+    "static/js/2.ce9847a6.chunk.js": "/gomycode_task/static/js/2.ce9847a6.chunk.js",
+    "static/js/2.ce9847a6.chunk.js.map": "/gomycode_task/static/js/2.ce9847a6.chunk.js.map",
+    "index.html": "/gomycode_task/index.html",
+    "precache-manifest.ac18f055736c15b2cb6f363f5921d77c.js": "/gomycode_task/precache-manifest.ac18f055736c15b2cb6f363f5921d77c.js",
+    "service-worker.js": "/gomycode_task/service-worker.js",
+    "static/css/main.5c0d9cce.chunk.css.map": "/gomycode_task/static/css/main.5c0d9cce.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9e7b290.js",
+    "static/js/2.ce9847a6.chunk.js",
+    "static/css/main.5c0d9cce.chunk.css",
+    "static/js/main.6234160d.chunk.js"
+  ]
+}
