@@ -1,22 +1,43 @@
-.App {
-  text-align: center;
+.img{
+  width: 150px;
+  height: 3
+  50px;
 }
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.listUsers{
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  width: 100% ;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+ 
 }
+.listUserContainer{
+  width: 50%;
+display: flex;
+flex-wrap:wrap ;
+justify-content: center;
+}
+.listTitle{
+  text-align: center;
+  color: blue;
+}
+button{
+  color:black;
+  background:#18BDCF
+  ;
+  font-weight: bold;
+  border-radius: 5px;
 
-.App-link {
-  color: #09d3ac;
+}
+.userName{
+  color:black;
+  font-size: large;
+  font-weight: bold;
+  position: relative;
+  right:20px
+ 
+}
+.userCard{
+  padding: 20px;
+}
+.postContainer{
+  background-color: #B7E0F4;
 }
